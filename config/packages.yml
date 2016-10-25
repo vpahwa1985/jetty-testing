@@ -1,0 +1,11 @@
+---
+openjdk:
+- version: "1.6"
+  full: openjdk8-lambda-preview.tar.gz
+  jre: openjdk-1.8.0_M7.tar.gz
+- version: "1.7"
+  full: openjdk8-lambda-preview.tar.gz
+  jre: openjdk-1.8.0_M7.tar.gz
+- version: "1.8"
+  full: openjdk8-lambda-preview.tar.gz
+  jre: openjdk-1.8.0_M7.tar.gz
